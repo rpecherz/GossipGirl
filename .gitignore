@@ -1,0 +1,4 @@
+/daemon
+/client
+*.o
+.DS_Store
